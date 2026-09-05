@@ -1,5 +1,7 @@
 # <div align="center">Jsonify</div>
 A small way to view JSON files in your web browser. 
+
+For more information, click [here](HowTo.md)
 ## Features
 * Syntax highlighting
 * Supports objects, arrays, strings, numbers, booleans, and `null`
